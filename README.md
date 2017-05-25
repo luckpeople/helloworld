@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This is Luckpeople Pages
 
 You can use the [editor on GitHub](https://github.com/luckpeople/helloworld/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
